@@ -8,7 +8,7 @@ I wrote this program to learn the programming language C#. I haven't had the cha
 
 Here is a link to a video demonstration of my project.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/AUVP1GLqxIg)
 
 # Development Environment
 
